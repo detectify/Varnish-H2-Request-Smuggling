@@ -1,5 +1,5 @@
 
-#Varnish HTTP/2 Request Smuggling
+# Varnish HTTP/2 Request Smuggling
 This repository a docker-compose file to setup a local environment that
 is vulnerable to CVE-2021-36740 Varnish HTTP/2 request smuggling. There is a blog post
 at https://blog.detectify.com describing the vulnerability and
